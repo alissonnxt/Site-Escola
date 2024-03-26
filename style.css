@@ -29,11 +29,11 @@ body {
     color: white;
 }
 
-.escola-imagem{
+.oficina-imagem{
     width: 25%;
 }
 
-#escola{
+#oficina{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
@@ -42,12 +42,12 @@ body {
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.oficina-div-conteudo{
     width: 35%;
 }
 
 
-.escola-titulo{
+.oficina-titulo{
     padding: 24px 0;
 }
 
